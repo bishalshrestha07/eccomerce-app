@@ -14,3 +14,4 @@
 - Paypal payment Integration
 - Product Tracking
 
+## [Learn More About the Project](http://bishalshrestha07.com.np/post_merodokan.html)
